@@ -3,7 +3,7 @@
 
 ### Hi all, I'm Sergey 
 
-## I'm a Developer!
+<!-- ## I'm a Developer! -->
 
 - 📍 I’m From Ukraine (Odessa)
 - 💻 1+ Years Experience in Front-end Development
