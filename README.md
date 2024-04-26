@@ -24,7 +24,7 @@
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;
-<img alt="Kotlin" src="https://img.shields.io/badge/flutter-%230095D5.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
+<img alt="Kotlin" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
 
 
 
