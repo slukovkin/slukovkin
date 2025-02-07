@@ -6,7 +6,6 @@
 <!-- ## I'm a Developer! -->
 
 - 📍 I’m From Ukraine (Odessa)
-- 💻 2+ Years Experience Development
 
 ### 🤝 Connect with me:
 
